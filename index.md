@@ -1,6 +1,4 @@
----
-Anastasia Alimova
----
+# Anastasia Alimova 
 
 [about](#about) | [publications](#publications) | [contact](#contact)
 
